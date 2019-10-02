@@ -1,0 +1,11 @@
+E:\Files\University\GitHub\in-flight-movies\bin\Debug\netcoreapp3.0\in-flight-movies.exe
+E:\Files\University\GitHub\in-flight-movies\bin\Debug\netcoreapp3.0\in-flight-movies.deps.json
+E:\Files\University\GitHub\in-flight-movies\bin\Debug\netcoreapp3.0\in-flight-movies.runtimeconfig.json
+E:\Files\University\GitHub\in-flight-movies\bin\Debug\netcoreapp3.0\in-flight-movies.runtimeconfig.dev.json
+E:\Files\University\GitHub\in-flight-movies\bin\Debug\netcoreapp3.0\in-flight-movies.dll
+E:\Files\University\GitHub\in-flight-movies\bin\Debug\netcoreapp3.0\in-flight-movies.pdb
+E:\Files\University\GitHub\in-flight-movies\obj\Debug\netcoreapp3.0\in-flight-movies.csprojAssemblyReference.cache
+E:\Files\University\GitHub\in-flight-movies\obj\Debug\netcoreapp3.0\in-flight-movies.AssemblyInfoInputs.cache
+E:\Files\University\GitHub\in-flight-movies\obj\Debug\netcoreapp3.0\in-flight-movies.AssemblyInfo.cs
+E:\Files\University\GitHub\in-flight-movies\obj\Debug\netcoreapp3.0\in-flight-movies.dll
+E:\Files\University\GitHub\in-flight-movies\obj\Debug\netcoreapp3.0\in-flight-movies.pdb

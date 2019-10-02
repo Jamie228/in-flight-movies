@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "in-flight-movies/1.0.0": {
+        "runtime": {
+          "in-flight-movies.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "in-flight-movies/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
